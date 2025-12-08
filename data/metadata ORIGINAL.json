@@ -4,7 +4,7 @@
     "source": {
       "locale": "en-US"
     },
-    "label": "SKU",
+    "label": "sku",
     "dataType": "TEXT",
     "visibleIn": [
       "PRODUCT_DETAIL",
@@ -16,16 +16,14 @@
     "sortable": false,
     "searchable": true,
     "searchWeight": 1,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
     "code": "name",
     "source": {
       "locale": "en-US"
     },
-    "label": "Game Name",
+    "label": "Name",
     "dataType": "TEXT",
     "visibleIn": [
       "PRODUCT_DETAIL",
@@ -36,10 +34,8 @@
     "filterable": false,
     "sortable": true,
     "searchable": true,
-    "searchWeight": 2,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchWeight": 1,
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
     "code": "description",
@@ -48,16 +44,12 @@
     },
     "label": "Description",
     "dataType": "TEXT",
-    "visibleIn": [
-      "PRODUCT_DETAIL"
-    ],
+    "visibleIn": ["PRODUCT_DETAIL"],
     "filterable": false,
     "sortable": false,
-    "searchable": true,
+    "searchable": false,
     "searchWeight": 1,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
     "code": "shortDescription",
@@ -66,17 +58,12 @@
     },
     "label": "Short Description",
     "dataType": "TEXT",
-    "visibleIn": [
-      "PRODUCT_DETAIL",
-      "PRODUCT_LISTING"
-    ],
+    "visibleIn": ["PRODUCT_DETAIL"],
     "filterable": false,
     "sortable": false,
     "searchable": true,
     "searchWeight": 1,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
     "code": "brand",
@@ -95,16 +82,14 @@
     "sortable": false,
     "searchable": true,
     "searchWeight": 2,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
-    "code": "game_type",
+    "code": "model",
     "source": {
       "locale": "en-US"
     },
-    "label": "Game Type",
+    "label": "Vehicle Model",
     "dataType": "TEXT",
     "visibleIn": [
       "PRODUCT_DETAIL",
@@ -116,28 +101,64 @@
     "sortable": false,
     "searchable": true,
     "searchWeight": 2,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
-    "code": "game_feature",
+    "code": "model_year",
     "source": {
       "locale": "en-US"
     },
-    "label": "Game Feature",
+    "label": "Vehicle Model Year",
+    "dataType": "INTEGER",
+    "visibleIn": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING",
+      "SEARCH_RESULTS",
+      "PRODUCT_COMPARE"
+    ],
+    "filterable": true,
+    "sortable": false,
+    "searchable": false,
+    "searchWeight": 2,
+    "searchTypes": ["AUTOCOMPLETE"]
+  },
+  {
+    "code": "country",
+    "source": {
+      "locale": "en-US"
+    },
+    "label": "Dealer Country",
     "dataType": "TEXT",
     "visibleIn": [
       "PRODUCT_DETAIL",
-      "PRODUCT_LISTING"
+      "PRODUCT_LISTING",
+      "SEARCH_RESULTS",
+      "PRODUCT_COMPARE"
+    ],
+    "filterable": false,
+    "sortable": false,
+    "searchable": false,
+    "searchWeight": 1,
+    "searchTypes": ["AUTOCOMPLETE"]
+  },
+  {
+    "code": "part_category",
+    "source": {
+      "locale": "en-US"
+    },
+    "label": "Part Category",
+    "dataType": "TEXT",
+    "visibleIn": [
+      "PRODUCT_DETAIL",
+      "PRODUCT_LISTING",
+      "SEARCH_RESULTS",
+      "PRODUCT_COMPARE"
     ],
     "filterable": true,
     "sortable": false,
     "searchable": true,
-    "searchWeight": 2,
-    "searchTypes": [
-      "AUTOCOMPLETE"
-    ]
+    "searchWeight": 3,
+    "searchTypes": ["AUTOCOMPLETE"]
   },
   {
     "code": "price",
