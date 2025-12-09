@@ -1,3 +1,42 @@
+# Aristocrat Sample Data import
+So we needed a demo of ACO for https://www.aristocratgaming.com to show their games being selectable and filterable in a user interface.
+They don't need checkout so we thought ACO would be a good fit.
+
+To get their games into a CSV file I just used https://webscraper.io/ which produced the https://github.com/mladobe/aristocratdata/blob/main/data/AristoCratWhereToPlay.csv file in this repo.
+Then I just grabbed the https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion repo, put the CSV in the data folder and used the following prompts to get the data into the https://github.com/mladobe/aristocratdata/blob/main/data/products.json, https://github.com/mladobe/aristocratdata/blob/main/data/metadata.json and (though unused) the https://github.com/mladobe/aristocratdata/blob/main/data/prices.json files.
+I used the following prompts in Cursor to get the file transformed:
+1. "Can you use the AristoCratWhereToPlay.csv file to replace the data in the products.json, prices.json and metadata.json files so I can run the import on those?"
+1. "can you update the metadata and products json files to only use a single "Game Feature" filterable field using the values from feature_1, feature_2, feature_3, feature_4, feature_5 fields? SO they are filterable through a single option in the site"
+
+These prompts gave me the https://github.com/mladobe/aristocratdata/blob/main/convert-csv.js file which I cursor ran to update the json files above.
+
+*NOTE:* I did a find and replace on "en-US" for the locale / source and replaced it with "AR-en-US"
+
+
+Then I basically treated the thing like the sample data import process below, but with my own data.
+Essentially just run:
+ ```shell
+ node index.js
+ ```
+Once you have your tenant ID and view ID and so on setup properly. (see instructions below from the main sample data repo)
+
+## Policies and Catalog Views
+I setup the below as my catalog views and policies to get this stuff showing up during import and in the Storefront
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/policylist.png" />
+ 
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/ar-game-policy.png" /> 
+ 
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/ar-game-feature-policy.png" /> 
+
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/ar-game-policy.png" />
+
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/viewlist.png" />
+
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/ar-games-catalog-view.png" />
+
+<img width="895" alt="image" src="https://github.com/mladobe/aristocratdata/blob/main/images/ar-games-catalog-view-id.png" />
+
+
 # Sample catalog data ingestion
 
 This sample data set emulates the catalog data for a fictional B2B2X Automobile conglomerate called Carvelo. When ingested, this sample data creates a single base catalog that can be configured and filtered to deliver custom catalogs for different sales channels, locales, and customer segments.

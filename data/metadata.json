@@ -2,7 +2,7 @@
   {
     "code": "sku",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "SKU",
     "dataType": "TEXT",
@@ -23,7 +23,7 @@
   {
     "code": "name",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Game Name",
     "dataType": "TEXT",
@@ -44,7 +44,7 @@
   {
     "code": "description",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Description",
     "dataType": "TEXT",
@@ -62,7 +62,7 @@
   {
     "code": "shortDescription",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Short Description",
     "dataType": "TEXT",
@@ -81,7 +81,7 @@
   {
     "code": "brand",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Brand",
     "dataType": "TEXT",
@@ -102,7 +102,7 @@
   {
     "code": "game_type",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Game Type",
     "dataType": "TEXT",
@@ -123,7 +123,7 @@
   {
     "code": "game_feature",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Game Feature",
     "dataType": "TEXT",
@@ -142,7 +142,7 @@
   {
     "code": "price",
     "source": {
-      "locale": "en-US"
+      "locale": "AR-en-US"
     },
     "label": "Price",
     "dataType": "DECIMAL",
