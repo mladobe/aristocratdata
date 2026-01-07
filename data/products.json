@@ -2,7 +2,7 @@
   {
     "sku": "ari-yo-yeti",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Yo Yeti",
     "slug": "yo-yeti",
@@ -84,7 +84,7 @@
   {
     "sku": "ari-winner-s-world",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Winner's World",
     "slug": "winner-s-world",
@@ -167,7 +167,7 @@
   {
     "sku": "ari-wild-pyramid-respins",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Wild Pyramid Respins",
     "slug": "wild-pyramid-respins",
@@ -231,7 +231,7 @@
   {
     "sku": "ari-whisker-wheels",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Whisker Wheels",
     "slug": "whisker-wheels",
@@ -294,7 +294,7 @@
   {
     "sku": "ari-valley-of-riches",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Valley of Riches",
     "slug": "valley-of-riches",
@@ -384,7 +384,7 @@
   {
     "sku": "ari-ultimate-fast-cash",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Ultimate Fast Cash",
     "slug": "ultimate-fast-cash",
@@ -448,7 +448,7 @@
   {
     "sku": "ari-triple-power",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Triple Power",
     "slug": "triple-power",
@@ -511,7 +511,7 @@
   {
     "sku": "ari-timber-wolf-triple-power",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Timber Wolf Triple Power",
     "slug": "timber-wolf-triple-power",
@@ -589,7 +589,7 @@
   {
     "sku": "ari-super-tiger-and-dragon",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Super Tiger and Dragon",
     "slug": "super-tiger-and-dragon",
@@ -667,7 +667,7 @@
   {
     "sku": "ari-super-panda-and-ox",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Super Panda and Ox",
     "slug": "super-panda-and-ox",
@@ -744,7 +744,7 @@
   {
     "sku": "ari-sun-of-ra",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Sun of Ra",
     "slug": "sun-of-ra",
@@ -840,7 +840,7 @@
   {
     "sku": "ari-spring-festival",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Spring Festival",
     "slug": "spring-festival",
@@ -930,7 +930,7 @@
   {
     "sku": "ari-spooky-link",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Spooky Link",
     "slug": "spooky-link",
@@ -993,7 +993,7 @@
   {
     "sku": "ari-silk-road",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Silk Road",
     "slug": "silk-road",
@@ -1083,7 +1083,7 @@
   {
     "sku": "ari-sensei-master",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Sensei Master",
     "slug": "sensei-master",
@@ -1173,7 +1173,7 @@
   {
     "sku": "ari-queen-chiu",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Queen Chiu",
     "slug": "queen-chiu",
@@ -1263,7 +1263,7 @@
   {
     "sku": "ari-piggy-burst",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Piggy Burst",
     "slug": "piggy-burst",
@@ -1346,7 +1346,7 @@
   {
     "sku": "ari-phoenix-link",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Phoenix Link",
     "slug": "phoenix-link",
@@ -1409,7 +1409,7 @@
   {
     "sku": "ari-peacock-princess",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Peacock Princess",
     "slug": "peacock-princess",
@@ -1499,7 +1499,7 @@
   {
     "sku": "ari-peace-and-long-life",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Peace and Long Life",
     "slug": "peace-and-long-life",
@@ -1591,7 +1591,7 @@
   {
     "sku": "ari-panda-magic",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Panda Magic",
     "slug": "panda-magic",
@@ -1681,7 +1681,7 @@
   {
     "sku": "ari-panda",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Panda",
     "slug": "panda",
@@ -1770,7 +1770,7 @@
   {
     "sku": "ari-nfl-super-bowl-jackpots",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "NFL Super Bowl Jackpots",
     "slug": "nfl-super-bowl-jackpots",
@@ -1862,7 +1862,7 @@
   {
     "sku": "ari-moon-race",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Moon Race",
     "slug": "moon-race",
@@ -1952,7 +1952,7 @@
   {
     "sku": "ari-mo-mummy",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Mo Mummy",
     "slug": "mo-mummy",
@@ -2014,7 +2014,7 @@
   {
     "sku": "ari-mo-mummy",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Mo Mummy",
     "slug": "mo-mummy",
@@ -2096,7 +2096,7 @@
   {
     "sku": "ari-mighty-pyramid",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Mighty Pyramid",
     "slug": "mighty-pyramid",
@@ -2186,7 +2186,7 @@
   {
     "sku": "ari-magic-pearl",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Magic Pearl",
     "slug": "magic-pearl",
@@ -2276,7 +2276,7 @@
   {
     "sku": "ari-lucky-looters",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Lucky Looters",
     "slug": "lucky-looters",
@@ -2339,7 +2339,7 @@
   {
     "sku": "ari-lightning-link",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Lightning Link",
     "slug": "lightning-link",
@@ -2402,7 +2402,7 @@
   {
     "sku": "ari-leprechauns",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Leprechauns",
     "slug": "leprechauns",
@@ -2484,7 +2484,7 @@
   {
     "sku": "ari-kismet-kat",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Kismet Kat",
     "slug": "kismet-kat",
@@ -2574,7 +2574,7 @@
   {
     "sku": "ari-karma-kat",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Karma Kat",
     "slug": "karma-kat",
@@ -2664,7 +2664,7 @@
   {
     "sku": "ari-ju-cai-jin-gui-dragon",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Ju Cai Jin Gui - Dragon",
     "slug": "ju-cai-jin-gui-dragon",
@@ -2763,7 +2763,7 @@
   {
     "sku": "ari-jackpot-carnival-power-of-88",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Jackpot Carnival Power of 88",
     "slug": "jackpot-carnival-power-of-88",
@@ -2854,7 +2854,7 @@
   {
     "sku": "ari-jackpot-carnival-buffalo",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Jackpot Carnival Buffalo",
     "slug": "jackpot-carnival-buffalo",
@@ -2945,7 +2945,7 @@
   {
     "sku": "ari-jackpot-carnival",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Jackpot Carnival",
     "slug": "jackpot-carnival",
@@ -3008,7 +3008,7 @@
   {
     "sku": "ari-house-of-the-dragon",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "House of the Dragon",
     "slug": "house-of-the-dragon",
@@ -3113,7 +3113,7 @@
   {
     "sku": "ari-high-stakes",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "High Stakes",
     "slug": "high-stakes",
@@ -3203,7 +3203,7 @@
   {
     "sku": "ari-happy-and-prosperous",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Happy and Prosperous",
     "slug": "happy-and-prosperous",
@@ -3294,7 +3294,7 @@
   {
     "sku": "ari-golden-pyramid",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Golden Pyramid",
     "slug": "golden-pyramid",
@@ -3384,7 +3384,7 @@
   {
     "sku": "ari-golden-gong",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Golden Gong",
     "slug": "golden-gong",
@@ -3474,7 +3474,7 @@
   {
     "sku": "ari-golden-century",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Golden Century",
     "slug": "golden-century",
@@ -3550,7 +3550,7 @@
   {
     "sku": "ari-go-ghost",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Go Ghost",
     "slug": "go-ghost",
@@ -3632,7 +3632,7 @@
   {
     "sku": "ari-genghis-khan",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Genghis Khan",
     "slug": "genghis-khan",
@@ -3722,7 +3722,7 @@
   {
     "sku": "ari-general-tso",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "General Tso",
     "slug": "general-tso",
@@ -3812,7 +3812,7 @@
   {
     "sku": "ari-fu-dai-lian-lian",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Fu Dai Lian Lian",
     "slug": "fu-dai-lian-lian",
@@ -3875,7 +3875,7 @@
   {
     "sku": "ari-fortune-harmony-spins",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Fortune Harmony Spins",
     "slug": "fortune-harmony-spins",
@@ -3939,7 +3939,7 @@
   {
     "sku": "ari-dragon-link",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Dragon Link",
     "slug": "dragon-link",
@@ -4002,7 +4002,7 @@
   {
     "sku": "ari-dragon-emperor-fortunes",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Dragon Emperor Fortunes",
     "slug": "dragon-emperor-fortunes",
@@ -4100,7 +4100,7 @@
   {
     "sku": "ari-devil",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Devil",
     "slug": "devil",
@@ -4182,7 +4182,7 @@
   {
     "sku": "ari-crazy-chickens",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Crazy Chickens",
     "slug": "crazy-chickens",
@@ -4272,7 +4272,7 @@
   {
     "sku": "ari-confucius-say",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Confucius Say",
     "slug": "confucius-say",
@@ -4362,7 +4362,7 @@
   {
     "sku": "ari-coin-trio",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Coin Trio",
     "slug": "coin-trio",
@@ -4425,7 +4425,7 @@
   {
     "sku": "ari-chief-inferno",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Chief Inferno",
     "slug": "chief-inferno",
@@ -4508,7 +4508,7 @@
   {
     "sku": "ari-cashman-kingdom",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Cashman Kingdom",
     "slug": "cashman-kingdom",
@@ -4598,7 +4598,7 @@
   {
     "sku": "ari-cashman-bingo",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Cashman Bingo",
     "slug": "cashman-bingo",
@@ -4661,7 +4661,7 @@
   {
     "sku": "ari-cash-express-legend-choy-sun-doa",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Cash Express Legend Choy Sun Doa",
     "slug": "cash-express-legend-choy-sun-doa",
@@ -4755,7 +4755,7 @@
   {
     "sku": "ari-cash-express-legend-buffalo",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Cash Express Legend Buffalo",
     "slug": "cash-express-legend-buffalo",
@@ -4847,7 +4847,7 @@
   {
     "sku": "ari-cash-express-legend",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Cash Express Legend",
     "slug": "cash-express-legend",
@@ -4911,7 +4911,7 @@
   {
     "sku": "ari-buffalo-triple-power",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Triple Power",
     "slug": "buffalo-triple-power",
@@ -5002,7 +5002,7 @@
   {
     "sku": "ari-buffalo-gold-wheels-of-reward",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Gold Wheels of Reward",
     "slug": "buffalo-gold-wheels-of-reward",
@@ -5101,7 +5101,7 @@
   {
     "sku": "ari-buffalo-gold-revolution",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Gold Revolution",
     "slug": "buffalo-gold-revolution",
@@ -5192,7 +5192,7 @@
   {
     "sku": "ari-buffalo-gamble",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Gamble",
     "slug": "buffalo-gamble",
@@ -5282,7 +5282,7 @@
   {
     "sku": "ari-buffalo-chief",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Chief",
     "slug": "buffalo-chief",
@@ -5372,7 +5372,7 @@
   {
     "sku": "ari-buffalo-ascension",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo Ascension",
     "slug": "buffalo-ascension",
@@ -5469,7 +5469,7 @@
   {
     "sku": "ari-buffalo-and-friends",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Buffalo and Friends",
     "slug": "buffalo-and-friends",
@@ -5560,7 +5560,7 @@
   {
     "sku": "ari-boost-tiger",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Boost Tiger",
     "slug": "boost-tiger",
@@ -5650,7 +5650,7 @@
   {
     "sku": "ari-boost-peacock",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Boost Peacock",
     "slug": "boost-peacock",
@@ -5740,7 +5740,7 @@
   {
     "sku": "ari-bonus-boost-red-festival",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bonus Boost Red Festival",
     "slug": "bonus-boost-red-festival",
@@ -5839,7 +5839,7 @@
   {
     "sku": "ari-bonus-boost-blue-festival",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bonus Boost Blue Festival",
     "slug": "bonus-boost-blue-festival",
@@ -5938,7 +5938,7 @@
   {
     "sku": "ari-blue-prosperity",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Blue Prosperity",
     "slug": "blue-prosperity",
@@ -6021,7 +6021,7 @@
   {
     "sku": "ari-bigger-fu-cash-bats",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bigger Fu Cash Bats",
     "slug": "bigger-fu-cash-bats",
@@ -6085,7 +6085,7 @@
   {
     "sku": "ari-best-bet",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Best Bet",
     "slug": "best-bet",
@@ -6175,7 +6175,7 @@
   {
     "sku": "ari-bao-zhu-zhao-fu-ignite",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bao Zhu Zhao Fu Ignite",
     "slug": "bao-zhu-zhao-fu-ignite",
@@ -6240,7 +6240,7 @@
   {
     "sku": "ari-bao-zhu-zhao-fu",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bao Zhu Zhao Fu",
     "slug": "bao-zhu-zhao-fu",
@@ -6304,7 +6304,7 @@
   {
     "sku": "ari-bank-buster",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Bank Buster",
     "slug": "bank-buster",
@@ -6394,7 +6394,7 @@
   {
     "sku": "ari-autumn-moon",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Autumn Moon",
     "slug": "autumn-moon",
@@ -6484,7 +6484,7 @@
   {
     "sku": "ari-aristocrat-classics",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "Aristocrat Classics",
     "slug": "aristocrat-classics",
@@ -6566,7 +6566,7 @@
   {
     "sku": "ari-5-dragons-rapid",
     "source": {
-      "locale": "AR-en-US"
+      "locale": "en-US"
     },
     "name": "5 Dragons Rapid",
     "slug": "5-dragons-rapid",

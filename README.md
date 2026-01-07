@@ -10,7 +10,7 @@ I used the following prompts in Cursor to get the file transformed:
 
 These prompts gave me the https://github.com/mladobe/aristocratdata/blob/main/convert-csv.js file which I cursor ran to update the json files above.
 
-*NOTE:* I did a find and replace on "en-US" for the locale / source and replaced it with "AR-en-US"
+*NOTE:* Using standard "en-US" locale for all catalog data (required for valid BCP 47 language tags)
 
 
 Then I basically treated the thing like the sample data import process below, but with my own data.
